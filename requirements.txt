@@ -1,0 +1,8 @@
+django==1.11.7
+gunicorn
+psycopg2
+requests
+celery
+ipdb
+djangorestframework
+django-admin-rangefilter
